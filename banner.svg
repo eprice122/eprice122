@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1107.6932mm"
+   height="369.23108mm"
+   viewBox="0 0 1107.6932 369.23108"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (56b05e47e7, 2022-06-09, custom)"
+   sodipodi:docname="GithubBanner.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.16173406"
+     inkscape:cx="4581.5952"
+     inkscape:cy="2330.9871"
+     inkscape:window-width="2560"
+     inkscape:window-height="1403"
+     inkscape:window-x="6400"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient10528"
+       inkscape:swatch="solid"
+       gradientTransform="matrix(1.2200053,0,0,1.2200053,-18.517498,-145.57426)">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop10526" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient10522"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#2b3137;stop-opacity:1;"
+         offset="0"
+         id="stop10520" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient10516"
+       inkscape:swatch="solid"
+       gradientTransform="matrix(0.04151607,0,0,0.06895399,-678.99291,-921.22805)">
+      <stop
+         style="stop-color:#2dba4e;stop-opacity:1;"
+         offset="0"
+         id="stop10514" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter9397"
+       x="-0.004609349"
+       y="-0.013828048"
+       width="1.0111393"
+       height="1.0334178">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood9387" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite9389" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2"
+         result="blur"
+         id="feGaussianBlur9391" />
+      <feOffset
+         dx="2"
+         dy="2"
+         result="offset"
+         id="feOffset9393" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite9395" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10516"
+       id="linearGradient10518"
+       x1="345.66406"
+       y1="760.18268"
+       x2="358.05194"
+       y2="760.18268"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10522"
+       id="linearGradient10524"
+       x1="-469.67819"
+       y1="665.25946"
+       x2="638.01508"
+       y2="665.25946"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10528"
+       id="linearGradient357"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2200053,0,0,1.2200053,-18.517498,-145.57426)"
+       x1="-74.116501"
+       y1="670.14111"
+       x2="242.45332"
+       y2="670.14111" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(469.67819,-480.64392)">
+    <rect
+       style="opacity:1;fill:url(#linearGradient10524);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:15.4256;paint-order:fill markers stroke"
+       id="rect61"
+       width="1107.6932"
+       height="369.23108"
+       x="-469.67819"
+       y="480.64392"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:94.016px;line-height:1.25;font-family:sans-serif;fill:url(#linearGradient357);fill-opacity:1;stroke:none;stroke-width:0.489667"
+       x="82.476089"
+       y="705.94128"
+       id="text1679"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:94.016px;font-family:Assistant;-inkscape-font-specification:'Assistant Ultra-Bold';text-align:center;text-anchor:middle;fill:url(#linearGradient357);fill-opacity:1;stroke-width:0.489667"
+         x="82.476089"
+         y="705.94128"
+         id="tspan1681">Eric Price</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:43.3225px;line-height:1.25;font-family:sans-serif;fill:url(#linearGradient10528);fill-opacity:1;stroke:none;stroke-width:0.451276"
+       x="21.567499"
+       y="608.78333"
+       id="text4019"><tspan
+         sodipodi:role="line"
+         id="tspan4017"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.3225px;font-family:Assistant;-inkscape-font-specification:'Assistant Bold';fill:url(#linearGradient10528);fill-opacity:1;stroke-width:0.451276"
+         x="21.567499"
+         y="608.78333">Hi, I'm</tspan></text>
+    <path
+       style="fill:#2dba4e;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -403.82813,849.875 c 80.50288,-10e-6 168.52177,-108.35335 188.08213,-196.29147 15.92785,-71.60733 -301.66592,121.39342 -81.46608,-172.93961 l -172.46611,-10e-6 v 369.2311 z"
+       id="path6446"
+       sodipodi:nodetypes="sscccs" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient10518);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.51883;paint-order:fill markers stroke"
+       id="rect8137"
+       width="12.387885"
+       height="551.5304"
+       x="345.66406"
+       y="484.41748"
+       transform="rotate(-15.253815)" />
+    <rect
+       style="fill:#2dba4e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.51883;paint-order:fill markers stroke"
+       id="rect8137-5"
+       width="12.387885"
+       height="551.5304"
+       x="321.88098"
+       y="484.41748"
+       transform="rotate(-15.253815)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:15.4256;paint-order:fill markers stroke"
+       id="rect61-0-0"
+       width="1107.6932"
+       height="369.23108"
+       x="-518.25165"
+       y="1732.9897"
+       ry="0" />
+    <rect
+       style="fill:#2b3137;fill-opacity:1;fill-rule:evenodd;stroke-width:14.5019;paint-order:fill markers stroke;filter:url(#filter9397)"
+       id="rect61-0"
+       width="1041.3618"
+       height="347.12057"
+       x="-485.08594"
+       y="1743.7083"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:47.758px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.248739"
+       x="34.735279"
+       y="1932.2966"
+       id="text1679-3"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:47.758px;font-family:Assistant;-inkscape-font-specification:'Assistant Ultra-Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.248739"
+         x="34.735275"
+         y="1932.2966"
+         id="tspan1681-6">Eric Price</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:23.879px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.248739"
+       x="1.0898857"
+       y="1880.2108"
+       id="text4019-1"><tspan
+         sodipodi:role="line"
+         id="tspan4017-0"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.879px;font-family:Assistant;-inkscape-font-specification:'Assistant Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.248739"
+         x="1.0898857"
+         y="1880.2108">Hi, I'm</tspan></text>
+    <path
+       style="fill:#2dba4e;fill-opacity:1;stroke:none;stroke-width:0.248739px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -423.17913,2090.8288 c 75.68216,0 158.43027,-101.8649 176.8193,-184.5371 14.97405,-67.3193 -283.60141,114.1241 -76.58769,-162.5836 h -162.13841 v 347.1207 z"
+       id="path6446-6"
+       sodipodi:nodetypes="sscccs" />
+    <rect
+       style="fill:#2dba4e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.42788;paint-order:fill markers stroke"
+       id="rect8137-3"
+       width="11.646068"
+       height="518.50336"
+       x="-56.913666"
+       y="1690.2904"
+       transform="rotate(-15.253815)" />
+    <rect
+       style="fill:#2dba4e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.42788;paint-order:fill markers stroke"
+       id="rect8137-5-2"
+       width="11.646068"
+       height="518.50336"
+       x="-79.272545"
+       y="1690.2904"
+       transform="rotate(-15.253815)" />
+    <g
+       id="g10673"
+       transform="translate(0,121.70835)">
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1"
+         width="1.8059127"
+         height="14.72071"
+         x="-906.15649"
+         y="-172.75146"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-5"
+         width="1.8059127"
+         height="14.72071"
+         x="164.48816"
+         y="-912.61389"
+         transform="scale(-1)" />
+    </g>
+    <g
+       id="g10673-7"
+       transform="translate(21.166667,121.70835)">
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-6"
+         width="1.8059127"
+         height="14.72071"
+         x="-906.15649"
+         y="-172.75146"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-5-5"
+         width="1.8059127"
+         height="14.72071"
+         x="164.48816"
+         y="-912.61389"
+         transform="scale(-1)" />
+    </g>
+    <g
+       id="g10673-7-9"
+       transform="translate(42.333335,121.70835)">
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-6-3"
+         width="1.8059127"
+         height="14.72071"
+         x="-906.15649"
+         y="-172.75146"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-5-5-7"
+         width="1.8059127"
+         height="14.72071"
+         x="164.48816"
+         y="-912.61389"
+         transform="scale(-1)" />
+    </g>
+    <g
+       id="g10673-5"
+       transform="translate(63.500002,121.70835)">
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-2"
+         width="1.8059127"
+         height="14.72071"
+         x="-906.15649"
+         y="-172.75146"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-5-54"
+         width="1.8059127"
+         height="14.72071"
+         x="164.48816"
+         y="-912.61389"
+         transform="scale(-1)" />
+    </g>
+    <g
+       id="g10673-7-7"
+       transform="translate(84.666669,121.70835)">
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-6-4"
+         width="1.8059127"
+         height="14.72071"
+         x="-906.15649"
+         y="-172.75146"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-5-5-4"
+         width="1.8059127"
+         height="14.72071"
+         x="164.48816"
+         y="-912.61389"
+         transform="scale(-1)" />
+    </g>
+    <g
+       id="g10673-7-9-3"
+       transform="translate(105.83334,121.70835)">
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-6-3-0"
+         width="1.8059127"
+         height="14.72071"
+         x="-906.15649"
+         y="-172.75146"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-5-5-7-7"
+         width="1.8059127"
+         height="14.72071"
+         x="164.48816"
+         y="-912.61389"
+         transform="scale(-1)" />
+    </g>
+    <g
+       id="g10673-6"
+       transform="translate(127.00002,121.70835)">
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-8"
+         width="1.8059127"
+         height="14.72071"
+         x="-906.15649"
+         y="-172.75146"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-5-8"
+         width="1.8059127"
+         height="14.72071"
+         x="164.48816"
+         y="-912.61389"
+         transform="scale(-1)" />
+    </g>
+    <g
+       id="g10673-7-4"
+       transform="translate(148.16668,121.70835)">
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-6-31"
+         width="1.8059127"
+         height="14.72071"
+         x="-906.15649"
+         y="-172.75146"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-5-5-49"
+         width="1.8059127"
+         height="14.72071"
+         x="164.48816"
+         y="-912.61389"
+         transform="scale(-1)" />
+    </g>
+    <g
+       id="g10673-7-9-2"
+       transform="translate(169.33335,121.70835)">
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-6-3-06"
+         width="1.8059127"
+         height="14.72071"
+         x="-906.15649"
+         y="-172.75146"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-5-5-7-8"
+         width="1.8059127"
+         height="14.72071"
+         x="164.48816"
+         y="-912.61389"
+         transform="scale(-1)" />
+    </g>
+    <g
+       id="g10673-5-9"
+       transform="translate(190.50002,121.70835)">
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-2-2"
+         width="1.8059127"
+         height="14.72071"
+         x="-906.15649"
+         y="-172.75146"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-5-54-6"
+         width="1.8059127"
+         height="14.72071"
+         x="164.48816"
+         y="-912.61389"
+         transform="scale(-1)" />
+    </g>
+    <g
+       id="g10673-7-7-6"
+       transform="translate(211.66668,121.70835)">
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-6-4-4"
+         width="1.8059127"
+         height="14.72071"
+         x="-906.15649"
+         y="-172.75146"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-5-5-4-9"
+         width="1.8059127"
+         height="14.72071"
+         x="164.48816"
+         y="-912.61389"
+         transform="scale(-1)" />
+    </g>
+    <g
+       id="g10673-7-9-3-5"
+       transform="translate(232.83336,121.70835)">
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-6-3-0-0"
+         width="1.8059127"
+         height="14.72071"
+         x="-906.15649"
+         y="-172.75146"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-5-5-7-7-4"
+         width="1.8059127"
+         height="14.72071"
+         x="164.48816"
+         y="-912.61389"
+         transform="scale(-1)" />
+    </g>
+    <g
+       id="g10673-71"
+       transform="matrix(1.2200053,0,0,1.2200053,144.2873,-362.40954)">
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-7"
+         width="1.8059127"
+         height="14.72071"
+         x="-906.15649"
+         y="-172.75146"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-5-2"
+         width="1.8059127"
+         height="14.72071"
+         x="164.48816"
+         y="-912.61389"
+         transform="scale(-1)" />
+    </g>
+    <g
+       id="g10673-7-72"
+       transform="matrix(1.2200053,0,0,1.2200053,170.11075,-362.40954)">
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-6-2"
+         width="1.8059127"
+         height="14.72071"
+         x="-906.15649"
+         y="-172.75146"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-5-5-6"
+         width="1.8059127"
+         height="14.72071"
+         x="164.48816"
+         y="-912.61389"
+         transform="scale(-1)" />
+    </g>
+    <g
+       id="g10673-7-9-1"
+       transform="matrix(1.2200053,0,0,1.2200053,195.9342,-362.40954)">
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-6-3-061"
+         width="1.8059127"
+         height="14.72071"
+         x="-906.15649"
+         y="-172.75146"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-5-5-7-5"
+         width="1.8059127"
+         height="14.72071"
+         x="164.48816"
+         y="-912.61389"
+         transform="scale(-1)" />
+    </g>
+    <g
+       id="g10673-5-94"
+       transform="matrix(1.2200053,0,0,1.2200053,221.75763,-362.40954)">
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-2-9"
+         width="1.8059127"
+         height="14.72071"
+         x="-906.15649"
+         y="-172.75146"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-5-54-0"
+         width="1.8059127"
+         height="14.72071"
+         x="164.48816"
+         y="-912.61389"
+         transform="scale(-1)" />
+    </g>
+    <g
+       id="g10673-7-7-9"
+       transform="matrix(1.2200053,0,0,1.2200053,247.58108,-362.40954)">
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-6-4-1"
+         width="1.8059127"
+         height="14.72071"
+         x="-906.15649"
+         y="-172.75146"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-5-5-4-7"
+         width="1.8059127"
+         height="14.72071"
+         x="164.48816"
+         y="-912.61389"
+         transform="scale(-1)" />
+    </g>
+    <g
+       id="g10673-7-9-3-7"
+       transform="matrix(1.2200053,0,0,1.2200053,273.40453,-362.40954)">
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-6-3-0-1"
+         width="1.8059127"
+         height="14.72071"
+         x="-906.15649"
+         y="-172.75146"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-5-5-7-7-1"
+         width="1.8059127"
+         height="14.72071"
+         x="164.48816"
+         y="-912.61389"
+         transform="scale(-1)" />
+    </g>
+    <g
+       id="g10673-6-5"
+       transform="matrix(1.2200053,0,0,1.2200053,299.228,-362.40954)">
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-8-9"
+         width="1.8059127"
+         height="14.72071"
+         x="-906.15649"
+         y="-172.75146"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-5-8-7"
+         width="1.8059127"
+         height="14.72071"
+         x="164.48816"
+         y="-912.61389"
+         transform="scale(-1)" />
+    </g>
+    <g
+       id="g10673-7-4-7"
+       transform="matrix(1.2200053,0,0,1.2200053,325.05143,-362.40954)">
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-6-31-6"
+         width="1.8059127"
+         height="14.72071"
+         x="-906.15649"
+         y="-172.75146"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-5-5-49-7"
+         width="1.8059127"
+         height="14.72071"
+         x="164.48816"
+         y="-912.61389"
+         transform="scale(-1)" />
+    </g>
+    <g
+       id="g10673-7-9-2-3"
+       transform="matrix(1.2200053,0,0,1.2200053,350.87488,-362.40954)">
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-6-3-06-6"
+         width="1.8059127"
+         height="14.72071"
+         x="-906.15649"
+         y="-172.75146"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-5-5-7-8-5"
+         width="1.8059127"
+         height="14.72071"
+         x="164.48816"
+         y="-912.61389"
+         transform="scale(-1)" />
+    </g>
+    <g
+       id="g10673-5-9-6"
+       transform="matrix(1.2200053,0,0,1.2200053,376.69833,-362.40954)">
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-2-2-3"
+         width="1.8059127"
+         height="14.72071"
+         x="-906.15649"
+         y="-172.75146"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-5-54-6-9"
+         width="1.8059127"
+         height="14.72071"
+         x="164.48816"
+         y="-912.61389"
+         transform="scale(-1)" />
+    </g>
+    <g
+       id="g10673-7-7-6-4"
+       transform="matrix(1.2200053,0,0,1.2200053,402.52177,-362.40954)">
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-6-4-4-8"
+         width="1.8059127"
+         height="14.72071"
+         x="-906.15649"
+         y="-172.75146"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-5-5-4-9-1"
+         width="1.8059127"
+         height="14.72071"
+         x="164.48816"
+         y="-912.61389"
+         transform="scale(-1)" />
+    </g>
+    <g
+       id="g10673-7-9-3-5-2"
+       transform="matrix(1.2200053,0,0,1.2200053,428.34523,-362.40954)">
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-6-3-0-0-9"
+         width="1.8059127"
+         height="14.72071"
+         x="-906.15649"
+         y="-172.75146"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:url(#linearGradient10516);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385998;paint-order:fill markers stroke"
+         id="rect10512-1-5-5-7-7-4-3"
+         width="1.8059127"
+         height="14.72071"
+         x="164.48816"
+         y="-912.61389"
+         transform="scale(-1)" />
+    </g>
+  </g>
+</svg>
