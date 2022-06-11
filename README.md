@@ -5,7 +5,7 @@ Hey there 👋
 I'm Eric, an enthusiast and professional developer, designer, and founder. I jump between front & backend frequently and am interested in Typescript a& Python stacks. It's my mission to write sleek and performant code, providing users with fluid and effortless UI experiences.
 
 
-<span style="display:flex;justify-content:space-between;width:100%;">
+<span>
     <a href="https://zumper.com" >
         <img src="./zumper.png" />
     </a>
