@@ -12,7 +12,7 @@ I'm Eric, an enthusiast and professional developer, designer, and founder. I jum
     <a href="https://zumper.com" >
         <img src="./zumper.png" style="width:160px" />
     </a>
-    <a href="https://play.google.com/store/apps/details?id=com.eprice122.coaster">
+    <a href="https://coaster.app">
         <img src="./coaster.png" style="width:160px" />
     </a>
     <a href="https://hedgehog.market" >
