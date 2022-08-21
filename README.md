@@ -6,14 +6,17 @@ I'm Eric, an enthusiast and professional developer, designer, and founder. I jum
 
 
 <span>
+    <a href="https://rippling.com" >
+        <img src="./rippling.png" style="width:160px" />
+    </a>
     <a href="https://zumper.com" >
-        <img src="./zumper.png" />
+        <img src="./zumper.png" style="width:160px" />
     </a>
     <a href="https://play.google.com/store/apps/details?id=com.eprice122.coaster">
-        <img src="./coaster.png" />
+        <img src="./coaster.png" style="width:160px" />
     </a>
     <a href="https://hedgehog.market" >
-        <img src="./hedgehog.png" />
+        <img src="./hedgehog.png" style="width:160px" />
     </a>
 </span>
 
